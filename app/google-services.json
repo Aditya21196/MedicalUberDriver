@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266345822376",
+    "firebase_url": "https://medicaluber-55ff5.firebaseio.com",
+    "project_id": "medicaluber-55ff5",
+    "storage_bucket": "medicaluber-55ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266345822376:android:be5960b1a00f4b55",
+        "android_client_info": {
+          "package_name": "com.example.aditya.medicaluberdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266345822376-qr7gt1ttmm3n0dl2qnrov7h1nv85v029.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.medicaluberdriver",
+            "certificate_hash": "42a7e00e8f66f01cb7b3ac97d4932c3113c14b84"
+          }
+        },
+        {
+          "client_id": "266345822376-8okpb86239st03bloi7hjg6cotgn95s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhj89arhbwxYxIOjkI63zoEJqkY7EaXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266345822376-8okpb86239st03bloi7hjg6cotgn95s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

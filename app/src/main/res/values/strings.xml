@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedicalUberDriver</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
