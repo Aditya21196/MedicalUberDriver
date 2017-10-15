@@ -1,5 +1,7 @@
 # TEAM NAME – CODING SENSEI
 
+Alternate app for users- https://github.com/ajaylather/MedicalUberUser
+
 ## PRODUCT NAME- MEDICAL UBER
 
 ### Summary
