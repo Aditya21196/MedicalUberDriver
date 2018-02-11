@@ -45,7 +45,7 @@ Following shows our code for starting Location Updates:
 
 The following three images display the lifecycle of a location entry on our backend:
 
-![Alt text]( https://raw.githubusercontent.com/ajaylather/h4n/master/ss1.png  "Optional title")
+![Alt text]( https://postimg.org/image/p4a05oznp/  "Optional title")
 ![Alt text](https://raw.githubusercontent.com/ajaylather/h4n/master/ss2.png  "Optional title")
 ![Alt text](https://raw.githubusercontent.com/ajaylather/h4n/master/ss3.png  "Optional title")
 
